@@ -15,10 +15,11 @@ All notable changes to the Sleep Nidra audio project.
 - 3 seconds of lead-in silence before the opening Om; Sriram's own three-Om
   chant opens at full level, his soft Om Shanti closes after 60 seconds of
   silence. No wake-up ending by design.
-- English: 85 spoken cues (revised body scan). Other languages: 81 cues.
+- English: 85 spoken cues (revised body scan). Other languages: 85 cues
+  (rebuilt on the revised script 2026-10-04).
   Peak level −1.3 dB, no clipping.
-- Durations: English 24:38, Spanish 24:14, French 23:16, German 23:56,
-  Portuguese 24:26.
+- Durations: English 24:38, Spanish 24:44, French 23:47, German 24:23,
+  Portuguese 24:52.
 
 ## v10 — 2026-10-04
 
@@ -28,9 +29,12 @@ All notable changes to the Sleep Nidra audio project.
   "The thumb." / "The four fingers."; "five toes" split into "The big toe."
   / "The other toes." ("the four little toes" was tried first and judged
   inaccurate).
-- 85 cues (was 81). English rebuilt end to end: 24:38, peak −1.3 dB.
-- Other languages still on the previous script pending translation of the
-  new cues.
+- All five languages rebuilt end to end on the revised 85-cue script
+  (was 81). The new rotation cues were translated into Spanish, French,
+  German, and Portuguese; unchanged cues were reused from the previous
+  build. Peak −1.3 dB, no clipping.
+- Durations: English 24:38, Spanish 24:44, French 23:47, German 24:23,
+  Portuguese 24:52.
 
 ## v9 — 2026-10-04
 

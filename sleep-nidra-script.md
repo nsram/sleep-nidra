@@ -1,8 +1,8 @@
 # Sleep Nidra — revised script (DRAFT)
 
-**Status:** built 2026-10-04 as the current English version (24:39, 85 cues,
-peak −1.3 dB). Other languages still use the previous script until the new
-cues are translated.
+**Status:** built 2026-10-04 as the current version in all five languages
+(85 cues; English 24:38, Spanish 24:44, French 23:47, German 24:23,
+Portuguese 24:52; peak −1.3 dB throughout).
 
 **What changed vs. the current 81-cue script (85 cues now):**
 
