@@ -15,11 +15,35 @@ All notable changes to the Sleep Nidra audio project.
 - 3 seconds of lead-in silence before the opening Om; Sriram's own three-Om
   chant opens at full level, his soft Om Shanti closes after 60 seconds of
   silence. No wake-up ending by design.
-- English: 85 spoken cues (revised body scan). Other languages: 85 cues
-  (rebuilt on the revised script 2026-10-04).
-  Peak level −1.3 dB, no clipping.
-- Durations: English 24:38, Spanish 24:44, French 23:47, German 24:23,
+- Spoken cues: English 93 (revised again in v11); Spanish, French, German,
+  Portuguese 85. Peak level −1.3 dB, no clipping.
+- Durations: English 25:13, Spanish 24:44, French 23:47, German 24:23,
   Portuguese 24:52.
+
+## v11 — 2026-10-09
+
+- Revised after several nights of listening to v10 (English):
+  - Opening Om boosted (+3.9 dB of body, peak-limited) — at quiet nighttime
+    levels it read softer than the voice; it now sits level with it.
+  - Closing Om Shanti repeated three times (same clip, same soft volume).
+  - Intention replaced: "Sleep easily." / "Sleep peacefully." / "Sleep
+    deeply." — the old phrases' morning framing ("Wake up refreshed") is
+    gone from the track entirely.
+  - Breathing cues shortened to two; the breath is framed as a background
+    rhythm, with no long gaps that invite breath-holding.
+  - Sound awareness: concrete examples (a fan turning, the hum of air
+    conditioning, a car passing outside) replace "soft breeze"; the breath
+    itself becomes the bridge inward.
+  - Coolness rebuilt from the in-breath — coolness felt at the nostrils,
+    spreading over the whole body. The part-by-part list is gone.
+  - Navel/breath section lengthened; the diaphragm gets its own cue.
+  - Countdown demos simplified ("Twenty seven, inhale... twenty seven,
+    exhale."), and two soft "Inhale... exhale" anchor rounds added during
+    the counting silence, roughly eight breaths apart, two rounds maximum.
+  - Visualization: a still lake, its surface shimmering; the closing image
+    is plain darkness.
+- 93 cues (was 85). English: 25:13, peak −1.3 dB. Other languages remain on
+  the v10 script for now.
 
 ## v10 — 2026-10-04
 

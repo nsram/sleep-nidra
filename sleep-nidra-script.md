@@ -1,20 +1,11 @@
-# Sleep Nidra — revised script (DRAFT)
+# Sleep Nidra — script
 
-**Status:** built 2026-10-04 as the current version in all five languages
-(85 cues; English 24:38, Spanish 24:44, French 23:47, German 24:23,
-Portuguese 24:52; peak −1.3 dB throughout).
+The canonical English script (93 cues) with pause structure — the source the
+audio is built from. Bookended by Sriram's own chants: the opening three-Om
+(boosted to sit level with the voice) and the closing Om Shanti, repeated
+three times at its natural soft volume.
 
-**What changed vs. the current 81-cue script (85 cues now):**
-
-1. **Side prefixes dropped.** Once attention is on a side ("Bring your
-   awareness to the right/left side of your body"), the individual cues no
-   longer repeat "right"/"left". The section bookends still name the side.
-2. **Palm instead of hand.** "Your right/left hand" becomes "The palm."
-3. **Finer granularity.** "Five fingers…" becomes "The thumb." / "The four
-   fingers."; "Five toes…" becomes "The big toe." / "The other toes."
-
----
-
+## Settling
 Lie down on your back, and let your whole body be completely still.
 [[pause:10]]
 Let your arms rest a little away from your body, with the palms facing upward.
@@ -23,24 +14,28 @@ Let your legs fall open slightly. Close your eyes.
 [[pause:12]]
 You are here to sleep. Everything else can wait.
 [[pause:12]]
-Take a slow, deep breath in... and let it fall out on its own.
-[[pause:14]]
-Again, breathe in slowly... and release.
-[[pause:14]]
-One final time. A long breath in... and a soft breath out.
-[[pause:14]]
-Now become aware of the sounds around you. Let them come and go, like a soft breeze passing.
-[[pause:18]]
-Bring your attention inward. The room is quiet. You are safe.
+Breathe in slowly... and let it fall out on its own.
+[[pause:10]]
+Let the breathing continue like this, in the background. Slow inhale... soft exhale.
 [[pause:12]]
+Become aware of the sounds around you. A fan turning. The hum of air conditioning. A car passing outside.
+[[pause:16]]
+Even your breath is a sound. Follow it, and let your attention turn inward.
+[[pause:12]]
+The room is quiet. You are safe.
+[[pause:12]]
+
+## Intention
 Now set your intention. Hold it silently, with feeling.
 [[pause:8]]
+Sleep easily.
+[[pause:10]]
+Sleep peacefully.
+[[pause:10]]
 Sleep deeply.
-[[pause:10]]
-Recharge.
-[[pause:10]]
-Wake up refreshed.
 [[pause:12]]
+
+## Right side
 Bring your awareness to the right side of your body.
 [[pause:8]]
 The thumb.
@@ -69,6 +64,8 @@ The other toes.
 [[pause:10]]
 The whole right side of the body. Heavy and still.
 [[pause:14]]
+
+## Left side
 Bring your awareness to the left side of your body.
 [[pause:8]]
 The thumb.
@@ -97,6 +94,8 @@ The other toes.
 [[pause:10]]
 The whole left side of the body. Heavy and still.
 [[pause:14]]
+
+## Back
 The back of the head.
 [[pause:8]]
 The neck.
@@ -105,6 +104,8 @@ The shoulders.
 [[pause:10]]
 Feel the whole back sinking into the bed.
 [[pause:14]]
+
+## Face and front
 The forehead.
 [[pause:8]]
 The eyes.
@@ -125,16 +126,18 @@ The belly.
 [[pause:10]]
 The whole body together. One heavy, still body, resting.
 [[pause:16]]
-Become aware of coolness, like a gentle breeze moving over your skin.
+
+## Coolness
+Notice the breath as it comes in. Cool as it enters.
+[[pause:14]]
+Feel the coolness at your nostrils with every breath in.
+[[pause:16]]
+Let that coolness spread slowly, over your whole body.
+[[pause:16]]
+Cool, and quiet, from head to toe.
 [[pause:18]]
-Your forehead is cool.
-[[pause:14]]
-Your cheeks are cool.
-[[pause:14]]
-Your hands are cool.
-[[pause:14]]
-A gentle coolness rests over your whole body.
-[[pause:18]]
+
+## Warmth
 Now allow the coolness to dissolve into warmth.
 [[pause:12]]
 A soft warmth gathers at your navel center.
@@ -143,6 +146,8 @@ It spreads slowly outward, through your whole body.
 [[pause:16]]
 Your hands are warm. Your feet are warm. Your whole body is warm and at ease.
 [[pause:16]]
+
+## Heaviness
 Become aware of heaviness.
 [[pause:10]]
 Your body is sinking into the mattress.
@@ -155,17 +160,41 @@ Let the bed hold all of your weight. Sink into it, completely.
 [[pause:16]]
 A warm heaviness spreads through you, like sinking slowly into deep, warm water.
 [[pause:18]]
+
+## Breath
 Bring your attention to your navel.
 [[pause:10]]
-Feel it rise gently as you breathe in, and fall as you breathe out.
-[[pause:14]]
+Feel your belly rise as you breathe in, and fall as you breathe out.
+[[pause:16]]
+Watch the diaphragm do the work. Gently, quietly, all on its own.
+[[pause:18]]
+
+## Countdown
 Now begin counting your breaths backward, silently, from twenty seven down to one. When you reach one, come back to twenty seven, and circle round again.
 [[pause:3]]
-Twenty seven as you breathe in... twenty seven as you breathe out.
+Twenty seven, inhale... twenty seven, exhale.
 [[pause:5]]
-Twenty six as you breathe in... twenty six as you breathe out.
-[[pause:160]]
-Imagine a still lake under moonlight. The water barely moves.
+Twenty six, inhale... twenty six, exhale.
+[[pause:45]]
+Inhale.
+[[pause:6]]
+Exhale.
+[[pause:6]]
+Inhale.
+[[pause:6]]
+Exhale.
+[[pause:45]]
+Inhale.
+[[pause:6]]
+Exhale.
+[[pause:6]]
+Inhale.
+[[pause:6]]
+Exhale.
+[[pause:35]]
+
+## Visualization
+Imagine a still lake under moonlight. The surface shimmers softly.
 [[pause:22]]
 You are lying on a soft bed beside the lake, near a small campfire.
 [[pause:22]]
@@ -173,13 +202,15 @@ The fire crackles gently. Its warmth rests softly on your skin.
 [[pause:22]]
 Above you, a dark sky full of quiet stars.
 [[pause:22]]
-Let the images dissolve. Only gentle darkness remains.
+Now it is completely dark. Just darkness, and rest.
 [[pause:22]]
+
+## Closing
+Sleep easily.
+[[pause:12]]
+Sleep peacefully.
+[[pause:12]]
 Sleep deeply.
-[[pause:12]]
-Recharge.
-[[pause:12]]
-Wake up refreshed.
 [[pause:16]]
 Welcome sleep like a close friend. Let yourself be held.
 [[pause:16]]

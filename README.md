@@ -10,9 +10,9 @@ feedback via GitHub issues.
 - `audio/` — 128 kbps web versions of the five tracks (~111 MB total).
   Masters (160 kbps) are kept locally, not in this package.
 - `transcripts/` — timestamped cue transcripts for each version
-- `sleep-nidra-script.md` — the canonical 85-cue English script with pause
+- `sleep-nidra-script.md` — the canonical English script with pause
   structure, the source the audio is built from
-- `CHANGELOG.md` — the complete version history (v1–v10). Filenames carry no
+- `CHANGELOG.md` — the complete version history (v1–v11). Filenames carry no
   version numbers by design; this file is the record.
 
 ## Deploy
