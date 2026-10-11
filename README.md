@@ -12,7 +12,7 @@ feedback via GitHub issues.
 - `transcripts/` — timestamped cue transcripts for each version
 - `sleep-nidra-script.md` — the canonical English script with pause
   structure, the source the audio is built from
-- `CHANGELOG.md` — the complete version history (v1–v11). Filenames carry no
+- `CHANGELOG.md` — the complete version history (v1–v12). Filenames carry no
   version numbers by design; this file is the record.
 
 ## Deploy

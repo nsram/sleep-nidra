@@ -1,9 +1,11 @@
 # Sleep Nidra — script
 
-The canonical English script (93 cues) with pause structure — the source the
-audio is built from. Bookended by Sriram's own chants: the opening three-Om
-(boosted to sit level with the voice) and the closing Om Shanti, repeated
-three times at its natural soft volume.
+The canonical English script (103 spoken cues) with pause structure — the
+source the audio is built from. Bookended by Sriram's own chants: the
+opening three-Om (boosted to sit level with the voice) and the closing
+Om Shanti, repeated three times at its natural soft volume. In the
+countdown, Sriram's own recorded breathing (three breaths) is heard
+four times; see the Countdown section.
 
 ## Settling
 Lie down on your back, and let your whole body be completely still.
@@ -18,8 +20,16 @@ Breathe in slowly... and let it fall out on its own.
 [[pause:10]]
 Let the breathing continue like this, in the background. Slow inhale... soft exhale.
 [[pause:12]]
-Become aware of the sounds around you. A fan turning. The hum of air conditioning. A car passing outside.
-[[pause:16]]
+Become aware of the sounds around you.
+[[pause:12]]
+A fan turning.
+[[pause:10]]
+The hum of air conditioning.
+[[pause:10]]
+A car passing outside.
+[[pause:10]]
+Water running.
+[[pause:12]]
 Even your breath is a sound. Follow it, and let your attention turn inward.
 [[pause:12]]
 The room is quiet. You are safe.
@@ -32,17 +42,27 @@ Sleep easily.
 [[pause:10]]
 Sleep peacefully.
 [[pause:10]]
-Sleep deeply.
+Sleep easily.
+[[pause:10]]
+Sleep peacefully.
+[[pause:10]]
+Sleep easily.
+[[pause:10]]
+Sleep peacefully.
 [[pause:12]]
 
 ## Right side
 Bring your awareness to the right side of your body.
 [[pause:8]]
+The right hand.
+[[pause:8]]
 The thumb.
 [[pause:8]]
 The four fingers.
 [[pause:8]]
 The palm.
+[[pause:8]]
+The back of the hand.
 [[pause:8]]
 The wrist.
 [[pause:8]]
@@ -54,25 +74,35 @@ The side of the chest.
 [[pause:8]]
 The hip.
 [[pause:8]]
+The thigh.
+[[pause:8]]
 The knee.
 [[pause:8]]
+The calf.
+[[pause:8]]
 The ankle.
+[[pause:8]]
+The foot.
 [[pause:8]]
 The big toe.
 [[pause:8]]
 The other toes.
 [[pause:10]]
-The whole right side of the body. Heavy and still.
+The whole right side of the body, from the hand to the feet. Heavy and still.
 [[pause:14]]
 
 ## Left side
 Bring your awareness to the left side of your body.
 [[pause:8]]
+The left hand.
+[[pause:8]]
 The thumb.
 [[pause:8]]
 The four fingers.
 [[pause:8]]
 The palm.
+[[pause:8]]
+The back of the hand.
 [[pause:8]]
 The wrist.
 [[pause:8]]
@@ -84,15 +114,21 @@ The side of the chest.
 [[pause:8]]
 The hip.
 [[pause:8]]
+The thigh.
+[[pause:8]]
 The knee.
 [[pause:8]]
+The calf.
+[[pause:8]]
 The ankle.
+[[pause:8]]
+The foot.
 [[pause:8]]
 The big toe.
 [[pause:8]]
 The other toes.
 [[pause:10]]
-The whole left side of the body. Heavy and still.
+The whole left side of the body, from the hand to the feet. Heavy and still.
 [[pause:14]]
 
 ## Back
@@ -170,28 +206,14 @@ Watch the diaphragm do the work. Gently, quietly, all on its own.
 [[pause:18]]
 
 ## Countdown
-Now begin counting your breaths backward, silently, from twenty seven down to one. When you reach one, come back to twenty seven, and circle round again.
+Now begin counting your breaths backward, silently, from forty two down to one.
 [[pause:3]]
-Twenty seven, inhale... twenty seven, exhale.
+Forty two, inhale... forty two, exhale.
 [[pause:5]]
-Twenty six, inhale... twenty six, exhale.
-[[pause:45]]
-Inhale.
-[[pause:6]]
-Exhale.
-[[pause:6]]
-Inhale.
-[[pause:6]]
-Exhale.
-[[pause:45]]
-Inhale.
-[[pause:6]]
-Exhale.
-[[pause:6]]
-Inhale.
-[[pause:6]]
-Exhale.
-[[pause:35]]
+Forty one, inhale... forty one, exhale.
+[[pause:2]]
+*[Sriram's recorded breathing — three breaths — is heard here,
+ then three more times at intervals through the silent counting.]*
 
 ## Visualization
 Imagine a still lake under moonlight. The surface shimmers softly.
@@ -210,9 +232,11 @@ Sleep easily.
 [[pause:12]]
 Sleep peacefully.
 [[pause:12]]
-Sleep deeply.
-[[pause:16]]
-Welcome sleep like a close friend. Let yourself be held.
-[[pause:16]]
-Let yourself drift. Sleep is already here.
+Sleep easily.
+[[pause:12]]
+Sleep peacefully.
+[[pause:12]]
+Sleep easily.
+[[pause:12]]
+Sleep peacefully.
 [[pause:25]]

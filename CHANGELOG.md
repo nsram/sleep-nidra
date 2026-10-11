@@ -15,10 +15,31 @@ All notable changes to the Sleep Nidra audio project.
 - 3 seconds of lead-in silence before the opening Om; Sriram's own three-Om
   chant opens at full level, his soft Om Shanti closes after 60 seconds of
   silence. No wake-up ending by design.
-- Spoken cues: English 93 (revised again in v11); Spanish, French, German,
-  Portuguese 85. Peak level −1.3 dB, no clipping.
-- Durations: English 25:13, Spanish 24:44, French 23:47, German 24:23,
+- Spoken cues: English 103 (revised again in v12); Spanish, French,
+  German, Portuguese 85. Peak level −1.3 dB, no clipping.
+- Durations: English 30:23, Spanish 24:44, French 23:47, German 24:23,
   Portuguese 24:52.
+
+## v12 — 2026-10-11
+
+- Built from a fresh round of listening feedback (English):
+  - Sounds: the examples now arrive one at a time with real pauses (fan,
+    air conditioning, a car passing, water running) instead of one
+    compact sentence.
+  - Intention: "Sleep deeply." dropped; the pair "Sleep easily." /
+    "Sleep peacefully." repeats three times, at the opening and the
+    closing.
+  - Body scan fuller: an orienting "The right/left hand." before the
+    thumb; back of the hand, thigh, calf, and foot added; the whole-side
+    cue gains a span — "from the hand to the feet."
+  - Countdown now starts at forty two, with no restart instruction. The
+    spoken Inhale/Exhale anchors are gone; instead Sriram's own recorded
+    breathing (three breaths) is heard four times through the counting,
+    faded and leveled to blend into the silence.
+  - Closing: the "close friend" and "drift" lines are dropped — the
+    intention pair is the last of the words.
+- 103 spoken cues (was 93). English: 30:23, peak −1.3 dB. Other languages
+  remain on the v10 script.
 
 ## v11 — 2026-10-09
 
